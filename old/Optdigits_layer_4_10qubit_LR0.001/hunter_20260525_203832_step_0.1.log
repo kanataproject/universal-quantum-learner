@@ -1,0 +1,32 @@
+======================================================
+ 量子ハンター・ワーカープロセス (Step Size: 0.1)
+======================================================
+
+Epoch   5 | Cost: 2.338702 | Acc: 8.00% (Best: 8.00% @ Ep5) | Stag: 0/15
+Epoch  10 | Cost: 2.328867 | Acc: 6.00% (Best: 8.00% @ Ep5) | Stag: 1/15
+Epoch  15 | Cost: 2.318051 | Acc: 8.00% (Best: 8.00% @ Ep5) | Stag: 2/15
+Epoch  20 | Cost: 2.308206 | Acc: 8.00% (Best: 8.00% @ Ep5) | Stag: 3/15
+Epoch  25 | Cost: 2.300527 | Acc: 10.00% (Best: 10.00% @ Ep25) | Stag: 0/15
+Epoch  30 | Cost: 2.291127 | Acc: 18.00% (Best: 18.00% @ Ep30) | Stag: 0/15
+Epoch  35 | Cost: 2.281862 | Acc: 18.00% (Best: 18.00% @ Ep30) | Stag: 1/15
+Epoch  40 | Cost: 2.274649 | Acc: 18.00% (Best: 18.00% @ Ep30) | Stag: 2/15
+Epoch  45 | Cost: 2.267209 | Acc: 18.00% (Best: 18.00% @ Ep30) | Stag: 3/15
+Epoch  50 | Cost: 2.261043 | Acc: 18.00% (Best: 18.00% @ Ep30) | Stag: 4/15
+Epoch  55 | Cost: 2.253596 | Acc: 18.00% (Best: 18.00% @ Ep30) | Stag: 5/15
+Epoch  60 | Cost: 2.247625 | Acc: 22.00% (Best: 22.00% @ Ep60) | Stag: 0/15
+Epoch  65 | Cost: 2.241226 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 0/15
+Epoch  70 | Cost: 2.233912 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 1/15
+Epoch  75 | Cost: 2.230068 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 2/15
+Epoch  80 | Cost: 2.223969 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 3/15
+Epoch  85 | Cost: 2.216498 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 4/15
+Epoch  90 | Cost: 2.208261 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 5/15
+Epoch  95 | Cost: 2.202235 | Acc: 24.00% (Best: 26.00% @ Ep65) | Stag: 6/15
+Epoch 100 | Cost: 2.197009 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 7/15
+Epoch 105 | Cost: 2.189262 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 8/15
+Epoch 110 | Cost: 2.183339 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 9/15
+Epoch 115 | Cost: 2.173205 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 10/15
+Epoch 120 | Cost: 2.166075 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 11/15
+Epoch 125 | Cost: 2.158180 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 12/15
+Epoch 130 | Cost: 2.148099 | Acc: 22.00% (Best: 26.00% @ Ep65) | Stag: 13/15
+Epoch 135 | Cost: 2.138795 | Acc: 24.00% (Best: 26.00% @ Ep65) | Stag: 14/15
+Epoch 140 | Cost: 2.129778 | Acc: 26.00% (Best: 26.00% @ Ep65) | Stag: 15/15

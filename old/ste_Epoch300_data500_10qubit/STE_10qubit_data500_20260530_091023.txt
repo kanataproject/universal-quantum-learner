@@ -1,0 +1,55 @@
+[INFO] 実行デバイス: cuda
+
+=========================================================
+ [ Depth  2 | STRONG Entanglement | Qubits: 10 ]
+=========================================================
+--- 1. Extracting Raw Quantum Features ---
+  -> Extraction Time: 3.02s
+--- 2. NN Training Sweep (Fixed LR=0.0003, Max Epochs=300) ---
+  [STE 0.01] Best Acc:  36.0% (at Epoch 126) | Train Time: 62.49s
+
+=========================================================
+ [ Depth  4 | STRONG Entanglement | Qubits: 10 ]
+=========================================================
+--- 1. Extracting Raw Quantum Features ---
+  -> Extraction Time: 5.17s
+--- 2. NN Training Sweep (Fixed LR=0.0003, Max Epochs=300) ---
+  [STE 0.01] Best Acc:  33.5% (at Epoch  64) | Train Time: 62.42s
+
+=========================================================
+ [ Depth  6 | STRONG Entanglement | Qubits: 10 ]
+=========================================================
+--- 1. Extracting Raw Quantum Features ---
+  -> Extraction Time: 7.19s
+--- 2. NN Training Sweep (Fixed LR=0.0003, Max Epochs=300) ---
+  [STE 0.01] Best Acc:  29.5% (at Epoch 121) | Train Time: 62.44s
+
+=========================================================
+ [ Depth  8 | STRONG Entanglement | Qubits: 10 ]
+=========================================================
+--- 1. Extracting Raw Quantum Features ---
+  -> Extraction Time: 9.68s
+--- 2. NN Training Sweep (Fixed LR=0.0003, Max Epochs=300) ---
+  [STE 0.01] Best Acc:  25.5% (at Epoch  98) | Train Time: 62.46s
+
+=========================================================
+ [ Depth 12 | STRONG Entanglement | Qubits: 10 ]
+=========================================================
+--- 1. Extracting Raw Quantum Features ---
+  -> Extraction Time: 14.42s
+--- 2. NN Training Sweep (Fixed LR=0.0003, Max Epochs=300) ---
+  [STE 0.01] Best Acc:  25.5% (at Epoch  64) | Train Time: 61.25s
+
+================================================================================
+ 仮説検証サマリー：Qubit拡張による空間スカスカ化の観測 (Qubits: 10)
+================================================================================
+Depth | [STE 0.01] Acc (Ep) | 
+------------------------------
+   2  |    36.0% (126) |
+   4  |    33.5% ( 64) |
+   6  |    29.5% (121) |
+   8  |    25.5% ( 98) |
+  12  |    25.5% ( 64) |
+
+[SUCCESS] Done.
+----------------------------------------

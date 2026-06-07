@@ -1,0 +1,22 @@
+======================================================
+ 量子ハンター・ワーカープロセス (Step Size: 0.1)
+======================================================
+
+Epoch   5 | Cost: 2.273030 | Acc: 22.00% (Best: 22.00% @ Ep5) | Stag: 0/15
+Epoch  10 | Cost: 2.219611 | Acc: 24.00% (Best: 24.00% @ Ep10) | Stag: 0/15
+Epoch  15 | Cost: 2.166795 | Acc: 34.00% (Best: 34.00% @ Ep15) | Stag: 0/15
+Epoch  20 | Cost: 2.101355 | Acc: 28.00% (Best: 34.00% @ Ep15) | Stag: 1/15
+Epoch  25 | Cost: 2.013109 | Acc: 20.00% (Best: 34.00% @ Ep15) | Stag: 2/15
+Epoch  30 | Cost: 1.922965 | Acc: 22.00% (Best: 34.00% @ Ep15) | Stag: 3/15
+Epoch  35 | Cost: 1.817742 | Acc: 18.00% (Best: 34.00% @ Ep15) | Stag: 4/15
+Epoch  40 | Cost: 1.726671 | Acc: 20.00% (Best: 34.00% @ Ep15) | Stag: 5/15
+Epoch  45 | Cost: 1.635821 | Acc: 30.00% (Best: 34.00% @ Ep15) | Stag: 6/15
+Epoch  50 | Cost: 1.549437 | Acc: 32.00% (Best: 34.00% @ Ep15) | Stag: 7/15
+Epoch  55 | Cost: 1.464131 | Acc: 26.00% (Best: 34.00% @ Ep15) | Stag: 8/15
+Epoch  60 | Cost: 1.403665 | Acc: 28.00% (Best: 34.00% @ Ep15) | Stag: 9/15
+Epoch  65 | Cost: 1.357015 | Acc: 28.00% (Best: 34.00% @ Ep15) | Stag: 10/15
+Epoch  70 | Cost: 1.302282 | Acc: 32.00% (Best: 34.00% @ Ep15) | Stag: 11/15
+Epoch  75 | Cost: 1.263563 | Acc: 30.00% (Best: 34.00% @ Ep15) | Stag: 12/15
+Epoch  80 | Cost: 1.224403 | Acc: 32.00% (Best: 34.00% @ Ep15) | Stag: 13/15
+Epoch  85 | Cost: 1.180158 | Acc: 28.00% (Best: 34.00% @ Ep15) | Stag: 14/15
+Epoch  90 | Cost: 1.148895 | Acc: 30.00% (Best: 34.00% @ Ep15) | Stag: 15/15
