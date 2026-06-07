@@ -1,0 +1,49 @@
+======================================================
+ 量子ハンター 角度レシピ・チェックポイント保管庫 Step: 0.01
+======================================================
+
+=== [UPDATE] Epoch 1 | Best Acc: 38.89% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 85 | Best Acc: 41.67% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 88 | Best Acc: 44.44% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 146 | Best Acc: 47.22% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 168 | Best Acc: 50.00% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 169 | Best Acc: 52.78% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 174 | Best Acc: 55.56% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 216 | Best Acc: 61.11% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 244 | Best Acc: 63.89% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 247 | Best Acc: 66.67% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 254 | Best Acc: 69.44% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 271 | Best Acc: 72.22% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 336 | Best Acc: 75.00% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 337 | Best Acc: 77.78% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 386 | Best Acc: 80.56% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 392 | Best Acc: 83.33% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 401 | Best Acc: 86.11% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 470 | Best Acc: 88.89% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 574 | Best Acc: 91.67% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+=== [UPDATE] Epoch 926 | Best Acc: 94.44% | LR: 0.000010 ===
+Model saved to: models\qml_model_20260531_141618_step_0.01_best.pt
+======================================================
+🏆 FINAL BEST QUANTUM RECIPE (Epoch 926 | Acc: 94.44%)
+======================================================
+[-0.1255,  0.4507,  0.232 ,  0.0987, -0.344 , -0.344 , -0.4419,  0.3662,
+  0.1011,  0.2081, -0.4794,  0.4699,  0.3324, -0.2877, -0.3182, -0.3166]
