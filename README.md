@@ -178,7 +178,7 @@ Inference software is distributed via Releases (binary only).
 
 ## Citation / 引用
 
-> Preprint available on JXiv / JXivにてプレプリント公開中
+> Preprint available on JXiv / JXivにてプレプリント公開予定
 
 ---
 
